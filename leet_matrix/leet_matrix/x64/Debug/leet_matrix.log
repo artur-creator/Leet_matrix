@@ -1,0 +1,4 @@
+﻿  leet_matrix.cpp
+C:\Users\tauru\source\repos\Leet_matrix\leet_matrix\leet_matrix.cpp(19,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tauru\source\repos\Leet_matrix\leet_matrix\leet_matrix.cpp(19,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  leet_matrix.vcxproj -> C:\Users\tauru\source\repos\Leet_matrix\leet_matrix\x64\Debug\leet_matrix.exe
